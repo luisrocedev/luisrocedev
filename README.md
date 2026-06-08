@@ -1,4 +1,4 @@
-# 👋 Luis Rodriguez
+# Luis Rodriguez
 
 **Full-stack developer at Ensenyem** · PHP · JavaScript · Astro · MySQL · Python  
 📍 Valencia, España
